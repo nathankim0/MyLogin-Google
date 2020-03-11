@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "899260433239",
+    "firebase_url": "https://mylogin-c3780.firebaseio.com",
+    "project_id": "mylogin-c3780",
+    "storage_bucket": "mylogin-c3780.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899260433239:android:7537b70e58cc0dd07f3412",
+        "android_client_info": {
+          "package_name": "com.jinyeob.mylogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899260433239-jj591lbhsq4vcp0ueqbtofpm45kpf4hh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jinyeob.mylogin",
+            "certificate_hash": "c3e3d136848fb9ce8a2b74b48f6565d1779bee10"
+          }
+        },
+        {
+          "client_id": "899260433239-62dndh1p2l5956echkl285k35le26958.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5SfKn22xsyZVG0Bz_JgHULH2m74-9D2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899260433239-62dndh1p2l5956echkl285k35le26958.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
